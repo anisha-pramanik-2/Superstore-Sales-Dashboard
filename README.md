@@ -1,5 +1,9 @@
 # Superstore Sales Dashboard
 
+## Dashboard Preview
+
+![Dashboard Preview](dashboard-preview.png)
+
 ## Overview
 
 This project is an interactive **Power BI Sales Dashboard** built using the **Superstore dataset from Kaggle**. The project focused primarily on **dashboard creation, visualization, interactivity, and business insight generation**.
