@@ -33,11 +33,3 @@ This project is an interactive **Power BI Sales Dashboard** built using the **Su
 ## Dataset
 
 Source: **Kaggle – Superstore Sales Dataset**
-
-📁 Repository Contents
-Sales-Dashboard.pbix – Power BI dashboard file
-dashboard-preview.png – Main dashboard screenshot
-filter-panel-preview.png – Interactive slicer panel screenshot
-Sample - Superstore.csv – Dataset used for analysis
-README.md – Project documentation
-
